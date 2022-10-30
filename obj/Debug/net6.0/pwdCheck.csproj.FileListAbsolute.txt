@@ -1,0 +1,15 @@
+C:\Users\Franco\WEB\C sharp\pwdCheck\bin\Debug\net6.0\pwdCheck.exe
+C:\Users\Franco\WEB\C sharp\pwdCheck\bin\Debug\net6.0\pwdCheck.deps.json
+C:\Users\Franco\WEB\C sharp\pwdCheck\bin\Debug\net6.0\pwdCheck.runtimeconfig.json
+C:\Users\Franco\WEB\C sharp\pwdCheck\bin\Debug\net6.0\pwdCheck.dll
+C:\Users\Franco\WEB\C sharp\pwdCheck\bin\Debug\net6.0\pwdCheck.pdb
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.csproj.AssemblyReference.cache
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.AssemblyInfoInputs.cache
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.AssemblyInfo.cs
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.csproj.CoreCompileInputs.cache
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.dll
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\refint\pwdCheck.dll
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.pdb
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\pwdCheck.genruntimeconfig.cache
+C:\Users\Franco\WEB\C sharp\pwdCheck\obj\Debug\net6.0\ref\pwdCheck.dll
